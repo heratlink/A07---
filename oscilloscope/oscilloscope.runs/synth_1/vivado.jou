@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Aug  1 10:12:31 2020
+# Process ID: 6684
+# Current directory: E:/2018.3/vivado_program/oscilloscope/oscilloscope.runs/synth_1
+# Command line: vivado.exe -log oscilloscope.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source oscilloscope.tcl
+# Log file: E:/2018.3/vivado_program/oscilloscope/oscilloscope.runs/synth_1/oscilloscope.vds
+# Journal file: E:/2018.3/vivado_program/oscilloscope/oscilloscope.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source oscilloscope.tcl -notrace
